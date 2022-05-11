@@ -6,4 +6,4 @@ http://www.cathdb.info/search/by_sequence.
 ### Installation
 `pip install -e .`
 
-### Example Usage:
+### Example Usage
