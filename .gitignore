@@ -1,1 +1,3 @@
 .idea/*
+*.csv
+cath_funfam_api/.DS_Store
